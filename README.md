@@ -11,7 +11,7 @@ Referências:
 - OWASP Top 10 for LLM Applications: https://genai.owasp.org/
 
 Exemplos:
-- [.NET 10 + Semantic Kernel + Testcontainers + PostgreSQL + OpenTelemetry + Application Insights]()
-- [.NET 10 + Semantic Kernel + Testcontainers + PostgreSQL + OpenTelemetry + Jaeger]()
-- [.NET 10 + Microsoft Agent Framework + Testcontainers + PostgreSQL + OpenTelemetry + Application Insights]()
-- [.NET 10 + Microsoft Agent Framework + Testcontainers + PostgreSQL + OpenTelemetry + Jaeger]()
+- [.NET 10 + Semantic Kernel + Testcontainers + PostgreSQL + OpenTelemetry + Application Insights](https://github.com/renatogroffe/dotnet10-semantickernel-postgres-testcontainers-otel-azureappinsights_consultaprodutos)
+- [.NET 10 + Semantic Kernel + Testcontainers + PostgreSQL + OpenTelemetry + Jaeger](https://github.com/renatogroffe/dotnet10-semantickernel-postgres-testcontainers-otel-jaeger_consultaprodutos)
+- [.NET 10 + Microsoft Agent Framework + Testcontainers + PostgreSQL + OpenTelemetry + Application Insights](https://github.com/renatogroffe/dotnet10-agent-postgres-testcontainers-otel-azureappinsights_consultaprodutos)
+- [.NET 10 + Microsoft Agent Framework + Testcontainers + PostgreSQL + OpenTelemetry + Jaeger](https://github.com/renatogroffe/dotnet10-agent-postgres-testcontainers-otel-jaeger_consultaprodutos)
