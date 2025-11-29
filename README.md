@@ -8,3 +8,4 @@ Referências:
 - OpenTelemetry: https://opentelemetry.io/
 - Jaeger: https://www.jaegertracing.io/
 - Microsoft Foundry: https://learn.microsoft.com/en-us/azure/ai-foundry/what-is-azure-ai-foundry?view=foundry-classic
+- OWASP Top 10 for LLM Applications: https://genai.owasp.org/
