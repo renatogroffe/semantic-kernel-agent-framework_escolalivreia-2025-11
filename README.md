@@ -9,3 +9,9 @@ Referências:
 - Jaeger: https://www.jaegertracing.io/
 - Microsoft Foundry: https://learn.microsoft.com/en-us/azure/ai-foundry/what-is-azure-ai-foundry?view=foundry-classic
 - OWASP Top 10 for LLM Applications: https://genai.owasp.org/
+
+Exemplos:
+- [.NET 10 + Semantic Kernel + Testcontainers + PostgreSQL + OpenTelemetry + Application Insights]()
+- [.NET 10 + Semantic Kernel + Testcontainers + PostgreSQL + OpenTelemetry + Jaeger]()
+- [.NET 10 + Microsoft Agent Framework + Testcontainers + PostgreSQL + OpenTelemetry + Application Insights]()
+- [.NET 10 + Microsoft Agent Framework + Testcontainers + PostgreSQL + OpenTelemetry + Jaeger]()
