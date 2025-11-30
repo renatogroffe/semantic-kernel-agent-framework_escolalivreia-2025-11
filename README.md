@@ -1,5 +1,5 @@
 # semantic-kernel-agent-framework_escolalivreia-2025-11
-Slides e conteúdos de apresentação sobre Agent Framework e Semantic Kernel.
+Slides e conteúdos de apresentação sobre Agent Framework e Semantic Kernel. Tecnologias abordadas: Azure OpenAI, Azure AI Foundry, Docker, OpenTelemetry, Docker Compose, Kubernetes, Jaeger, Grafana, Application Insights.
 
 Referências:
 - Semantic Kernel: https://learn.microsoft.com/en-us/semantic-kernel/overview/
