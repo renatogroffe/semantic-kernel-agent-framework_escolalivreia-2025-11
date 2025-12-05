@@ -15,3 +15,4 @@ Exemplos:
 - [.NET 10 + Semantic Kernel + Testcontainers + PostgreSQL + OpenTelemetry + Jaeger](https://github.com/renatogroffe/dotnet10-semantickernel-postgres-testcontainers-otel-jaeger_consultaprodutos)
 - [.NET 10 + Microsoft Agent Framework + Testcontainers + PostgreSQL + OpenTelemetry + Application Insights](https://github.com/renatogroffe/dotnet10-agent-postgres-testcontainers-otel-azureappinsights_consultaprodutos)
 - [.NET 10 + Microsoft Agent Framework + Testcontainers + PostgreSQL + OpenTelemetry + Jaeger](https://github.com/renatogroffe/dotnet10-agent-postgres-testcontainers-otel-jaeger_consultaprodutos)
+- [.NET 10 + Microsoft Agent Framework + Testcontainers + PostgreSQL + OpenTelemetry + Grafana](https://github.com/renatogroffe/dotnet10-agent-framework-postgres-testcontainers-otel-grafana_consultaprodutos)
